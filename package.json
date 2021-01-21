@@ -11,6 +11,9 @@
     "test": "jest"
   },
   "jest": {
-    "reporters": ["default", "jest-teamcity"]
+    "reporters": [
+      "default",
+      "jest-teamcity"
+    ]
   }
 }
